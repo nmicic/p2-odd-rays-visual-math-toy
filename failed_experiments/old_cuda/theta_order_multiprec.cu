@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+//
 // ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 // This file remains for reference only.
 // Do NOT use in production. No support, no guarantees.
@@ -44,8 +47,8 @@
  * When we zoom, we're looking at what happens in this expanded region.
  *
  * ============================================================================
- * Author: @nmicic / Claude collaboration
- * License: MIT
+ * SPDX-License-Identifier: Apache-2.0
+ * Copyright (c) 2025 Nenad Micic <nenad@micic.be>
  * ============================================================================
  */
 

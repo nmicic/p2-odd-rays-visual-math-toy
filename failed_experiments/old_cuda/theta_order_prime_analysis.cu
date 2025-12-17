@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+//
 // ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 // This file remains for reference only.
 // Do NOT use in production. No support, no guarantees.
@@ -59,8 +62,8 @@
  * at the same angular positions. Natural order can't do this.
  *
  * ============================================================================
- * Author: @nmicic / Claude collaboration  
- * License: MIT
+ * SPDX-License-Identifier: Apache-2.0
+ * Copyright (c) 2025 Nenad Micic <nenad@micic.be>
  * ============================================================================
  */
 

@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: Apache-2.0
+// Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+//
 // ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 // This file remains for reference only.
 // Do NOT use in production. No support, no guarantees.
@@ -126,8 +129,8 @@
  *   --exp 20:  π(2^20) = 82,025 primes
  *
  * ============================================================================
- * Author: @nmicic / Claude collaboration
- * License: MIT
+ * SPDX-License-Identifier: Apache-2.0
+ * Copyright (c) 2025 Nenad Micic <nenad@micic.be>
  * ============================================================================
  */
 

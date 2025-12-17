@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: Apache-2.0
+Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+-->
+
 # ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 # This directory remains for reference only.
 # Do NOT use in production. No support, no guarantees.
@@ -305,6 +310,6 @@ The "encryption" in theta_codec is XOR-based obfuscation, NOT cryptographically 
 
 ## License
 
-MIT License
+Apache-2.0
 
 Repository: https://github.com/nmicic/p2-odd-rays-visual-math-toy/

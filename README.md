@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: Apache-2.0
+Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+-->
+
 # Power-of-Two Square Odd Rays
 
 **A visual math-toy exploration** (`p2-odd-rays-visual-math-toy`)
@@ -238,7 +243,7 @@ No conclusions or implications are made here.
 
 ## License
 
-MIT License
+Apache-2.0
 
 ## Author
 

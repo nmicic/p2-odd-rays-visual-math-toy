@@ -1,3 +1,17 @@
+> **Warning / Disclaimer**
+>
+> This repository contains an AI-assisted exploratory visualization project.
+> It is educational and experimental, intended for curiosity, illustration, and math-art.
+> It is not peer-reviewed, not mathematical research, and not presented as a theorem or verified result.
+>
+> No practical evaluation, performance assessment, or engineering analysis has been performed.
+> Nothing in this repository should be interpreted as providing system behavior, optimization, or functional guarantees.
+>
+> Visual patterns produced by this code are artifacts of the construction, not conclusions or claims.
+>
+> This project is archived for transparency and exploration only.
+---
+
 """
 MOTE: To be used as prompt with AI model when working on new program
 

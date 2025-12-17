@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-# Copyright (c) 2025 Nenad Micic
-# Author: Nenad Micic <nenad@micic.be>
-# License: MIT License
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2025 Nenad Micic <nenad@micic.be>
 #
 # WARNING / DISCLAIMER:
 #

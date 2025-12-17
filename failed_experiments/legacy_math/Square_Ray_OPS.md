@@ -1,3 +1,8 @@
+<!--
+SPDX-License-Identifier: Apache-2.0
+Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+-->
+
 # ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 # This file remains for reference only.
 # Do NOT use in production. No support, no guarantees.
@@ -915,7 +920,7 @@ for prime, gap in walk_primes(1, exp=32, count=1000000):
 
 ## License
 
-MIT License
+Apache-2.0
 
 ---
 

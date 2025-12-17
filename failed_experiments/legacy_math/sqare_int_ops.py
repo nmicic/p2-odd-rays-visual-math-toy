@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-License-Identifier: Apache-2.0
+# Copyright (c) 2025 Nenad Micic <nenad@micic.be>
+#
 # ARCHIVED / EXPERIMENTAL CODE — NOT MAINTAINED
 # This file remains for reference only.
 # Do NOT use in production. No support, no guarantees.
@@ -116,8 +119,8 @@ Module Organization:
   [CLI]               - Command-line interface
 ==============================================================================
 
-Author: Integer-native computation tools for p2-odd-rays-visual-math-toy
-License: MIT
+SPDX-License-Identifier: Apache-2.0
+Copyright (c) 2025 Nenad Micic <nenad@micic.be>
 """
 
 
